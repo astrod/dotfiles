@@ -1,4 +1,3 @@
-```vim
 " LazyVim key mappings for Jetbrains IDEs.
 
 " LazyVim default settings
@@ -805,4 +804,3 @@ vnoremap > >gv
 vnoremap < <gv
 
 " There are several more Neovim mappings that need to be ported.
-```
